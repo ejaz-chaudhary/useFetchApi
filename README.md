@@ -31,9 +31,6 @@ The project is built using **React with Vite** and styled using **Tailwind CSS**
 
 https://api.escuelajs.co/api/v1/products
 
-yaml
-Copy code
-
 ---
 
 ## Project Structure
@@ -47,9 +44,6 @@ src/
 ├── main.jsx
 └── index.css
 
-yaml
-Copy code
-
 ---
 
 ## How to Run the Project
@@ -62,12 +56,7 @@ Copy code
 2. Start the development server:
 npm run dev
 
-markdown
-Copy code
 3. Open in browser:
-http://localhost:5173
-
----
 
 ## Conclusion
 
